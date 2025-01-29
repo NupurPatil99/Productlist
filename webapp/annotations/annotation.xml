@@ -19,6 +19,10 @@
                             <PropertyValue Property="Value" Path="ProductName"/>
                             <PropertyValue Property="Label" String="Name"/>
                         </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="UnitPrice"/>
+                            <PropertyValue Property="Label" String="price"/>
+                        </Record>
                     </Collection>
                 </Annotation>
             </Annotations>
